@@ -5,5 +5,7 @@ This is a full stack web application developed used the FARM stack. (FastAPI, Re
 
 I was on the backend side of development. I developed and organized the API, as well as helped integrate GCP into our API. 
 
+Most of my work is all in /backend/api/routers.py
+
 
 
